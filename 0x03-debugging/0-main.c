@@ -10,8 +10,7 @@ int main(void)
         int i;
 
         i = 98;
-        positive_or_negative(i);
-	assert positive_or_negative(0) == is zero
+        assert positive_or_negative(0) == is zero
 
         return (0);
 }
