@@ -1,1 +1,1 @@
-0x03-debugging
+This folder is about c debugging.
