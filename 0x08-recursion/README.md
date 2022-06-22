@@ -14,8 +14,8 @@ This folder includes files about C - Recursion.
 
   6-is_prime_number.c :- a function that returns 1 if the input integer is a prime number, otherwise return 0.
 
-  7-is_palindrome.c :- a function that returns 1 if a string is a palindrome and 0 if not.
+  100-is_palindrome.c :- a function that returns 1 if a string is a palindrome and 0 if not.
 
-  100-wildcmp.c :- a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0. It uses the concept of wildcards.
+  101-wildcmp.c :- a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0. It uses the concept of wildcards.
 
   main.h :- the header file containing the function prototypes.
