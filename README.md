@@ -1,2 +1,2 @@
 
-This is  first C programing language project.
+This folder contains different project on C programing language which is my very first programing language in the ALX Software Engineering program.
