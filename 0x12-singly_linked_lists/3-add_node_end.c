@@ -39,5 +39,3 @@ list_t *add_node_end(list_t **head, const char *str)
 
 	return (new);
 }
-Footer
-© 2022 GitHub, Inc.
